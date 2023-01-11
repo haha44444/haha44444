@@ -5,8 +5,8 @@
 - 🌱 I'm currently learning `HTML`,`css`,`Python`.
 - 📫 How to reach me: Discord: `haha44444#3164` | QQ: `2919918537`
 
-<p align="center"><img align="center" src="https://count.getloli.com/get/@haha44444?theme=asoul"></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haha44444"></p>
+<p align="center"><img align="center" src="https://count.getloli.com/get/@haha44444?theme=asoul"></p>
 
 <!--
 **haha44444/haha44444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
