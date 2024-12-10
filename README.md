@@ -5,7 +5,7 @@
 </p>
 
 - 🏳️‍⚧️ Hi~ I'm haha44444.
-- <img src="/src/5787-minecraft.png" width="20" height="20"> I like Minecraft, Phigros.
+- <img src="/res/5787-minecraft.png" width="20" height="20"> I like Minecraft, Phigros.
 - 🌱 I'm currently learning `HTML`,`CSS`,`JavaScript`,`Python`,`C`,`C++`,`Java`,`Kotlin`.
 - 📫 How to reach me: Discord: `haha44444#3164` | QQ: `2919918537`
 
