@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋, I'm haha44444</h1>
 
+<p>
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=I%27m+haha44444" alt="typing-svg">
+</p>
+
 - 🏳️‍⚧️ Hi~ I'm haha44444.
 - <img src="/src/5787-minecraft.png" width="20" height="20"> I like Minecraft, Phigros.
 - 🌱 I'm currently learning `HTML`,`CSS`,`JavaScript`,`Python`,`C`,`C++`,`Java`,`Kotlin`.
