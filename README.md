@@ -10,8 +10,8 @@
 - 📫 How to reach me: Discord: `haha44444` | QQ: `2919918537`
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haha44444&layout=compact"></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haha44444"></p>
+<p align="center"><img align="center" src="https://github-readme-stats-lac-sigma-77.vercel.app/api/top-langs/?username=haha44444&layout=compact"></p>
+<p align="center"><img align="center" src="https://github-readme-stats-lac-sigma-77.vercel.app/api?username=haha44444"></p>
 <p align="center"><img align="center" src="https://count.getloli.com/get/@haha44444?theme=asoul"></p>
 
 <!--
